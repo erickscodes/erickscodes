@@ -1,3 +1,5 @@
+# Hi 👋 I'm Erick Le
+
 # 💫 About Me:
 I am a second year computer engineering student at community college and I am planning to transfer to University of Texas at Dallas, passionate about solving problems, creating designs, and building ideas into an actual product. 
 
